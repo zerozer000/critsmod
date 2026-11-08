@@ -1,0 +1,13 @@
+{
+  "crit_hit": {
+    "subtitle": "subtitles.critmod.crit_hit",
+    "sounds": ["critmod:crit_hit"]
+  },
+  "mini_crit_hit": {
+    "subtitle": "subtitles.critmod.mini_crit_hit",
+    "sounds": ["critmod:mini_crit_hit"]
+  },
+  "crit_spark": {
+  "sounds": ["critmod:crit_spark"]
+}
+}

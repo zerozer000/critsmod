@@ -1,0 +1,15 @@
+{
+  "item.critmod.crit_cola": "Критокола",
+  "effect.critmod.crit_boost": "Усиление критами",
+  "subtitles.critmod.crit_hit": "Critical Hit",
+  "subtitles.critmod.mini_crit_hit": "Mini-crit",
+  "critmod.text.crit": "CRIT!",
+  "critmod.text.mini_crit": "Mini-crit!",
+  "effect.critmod.marked_for_death": "Метка смерти",
+  "item.minecraft.potion.effect.marked_for_death": "Зелье метки смерти",
+  "item.minecraft.splash_potion.effect.marked_for_death": "Взрывное зелье метки смерти",
+  "item.minecraft.lingering_potion.effect.marked_for_death": "Туманное зелье метки смерти",
+  "item.minecraft.tipped_arrow.effect.marked_for_death": "Стрела метки смерти",
+  "item.critmod.strangifier_crit": "Странодел Гарантированные криты",
+  "critmod.tooltip.guaranteed_crit": "Гарантированные криты"
+}

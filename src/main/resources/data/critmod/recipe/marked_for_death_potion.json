@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "minecraft:skeleton_skull" },
+    { "item": "minecraft:fermented_spider_eye" },
+    { "item": "minecraft:bone" }
+  ],
+  "result": {
+    "id": "minecraft:potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "critmod:marked_for_death"
+      }
+    }
+  }
+}

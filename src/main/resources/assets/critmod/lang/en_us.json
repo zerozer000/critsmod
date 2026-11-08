@@ -1,0 +1,15 @@
+{
+  "item.critmod.crit_cola": "Crit-a-Cola",
+  "effect.critmod.crit_boost": "Crit Boost",
+  "subtitles.critmod.crit_hit": "Critical hit",
+  "subtitles.critmod.mini_crit_hit": "Mini-crit hit",
+  "critmod.text.crit": "CRIT!",
+  "critmod.text.mini_crit": "Mini-crit!",
+  "effect.critmod.marked_for_death": "Marked for Death",
+  "item.minecraft.potion.effect.marked_for_death": "Potion of Marked for Death",
+  "item.minecraft.splash_potion.effect.marked_for_death": "Splash Potion of Marked for Death",
+  "item.minecraft.lingering_potion.effect.marked_for_death": "Lingering Potion of Marked for Death",
+  "item.minecraft.tipped_arrow.effect.marked_for_death": "Arrow of Marked for Death",
+  "item.critmod.strangifier_crit": "Strangifier Guaranteed crits",
+  "critmod.tooltip.guaranteed_crit": "Guaranteed crits"
+}
